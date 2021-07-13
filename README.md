@@ -7,7 +7,7 @@ An application that serves as a updatable planner for the user.
 * HTML
 * CSS
 * Javascript
-* 
+
 ## Website
 
 
